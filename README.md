@@ -1,4 +1,4 @@
-# Einsum
+# CyEinsum
 Einsum is a C++ based Python library designed for efficient tensor contraction, employing the Einstein summation convention.
 
 # Prerequisite
